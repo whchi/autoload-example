@@ -1,0 +1,9 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Test\\": "classes/",
+            "Test\\Sub1\\": "classes/sub1/",
+            "Test\\Sub1\\Sub2\\": "classes/sub1/sub2/"
+        }
+    }
+}
