@@ -1,2 +1,2 @@
 # autoload-example
-two samples: composer and spl_autoload_register()
+Implement in php, composer and spl_register_autoload()
